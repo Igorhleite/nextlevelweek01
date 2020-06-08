@@ -17,7 +17,7 @@
     - É possivel fazer upload da faixada do local a ser cadastrado.
     - Consome a API do IBGE que fornece os estados(UF's) e seus respectivos municipios.
 
-  - Aplicativo (Andoid/IOS):
+  - Mobile (Andoid/IOS):
     - Desenvolvido utilizando React Native.
     - Consome a API do IBGE que fornece os estados(UF's) e seus respectivos municipios.
     - Fornece uma interface onde é possivel o usuário selecionar qual item deseja depositar em um ponto de coleta. Após essa escolha oferece as marcações no mapa de todos os pontos próximos a localização do usuário, que fazem coleta dos itens selecionados.
@@ -29,3 +29,35 @@
   - [mobile](https://github.com/Igorhleite/nextlevelweek01/tree/master/mobile)
   
 ### Interfaces
+
+- Interface inicial da aplicação web:
+
+<h1 align="center">
+  <img alt="Login" title="Login" src="https://i.ibb.co/qFd9jj3/1.png" width="500px" />
+</h1>
+
+- Interface da aplicação web onde é possivel cadastrar novos pontos:
+
+<h1 align="center">
+  <img alt="Login" title="Login" src="https://media1.tenor.com/images/6a5328f04ad34d662ac77564a3476a67/tenor.gif" width="500px" />
+</h1>
+
+- Após o cadastro do ponto é apresentado um modal (desenvolvido a parte):
+
+<h1 align="center">
+  <img alt="Login" title="Login" src="https://i.ibb.co/wSPWvTH/2.png" width="500px" />
+</h1>
+
+- Interfaces mobile (Android/OIS) :
+
+<h1 align="center">
+  <img alt="Login" title="Login" src="https://i.ibb.co/wSPWvTH/2.png" width="500px" />
+</h1>
+
+## :memo: License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+:wave: [Get in touch!](https://www.linkedin.com/in/igor-henrique-leite-a77b37160/)
