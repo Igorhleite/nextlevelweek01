@@ -4,7 +4,8 @@
 - A aplicação tem o intuito de fornecer pontos de coleta de materiais recicláveis, além de outros dipos de residuos reutilizaveis.
 
 - Estrutura do projeto:
- <p> -Back-End:</p>
+
+ -Back-End:
     - Desenvolvido utilizando Node.JS.
     - Fornece uma API onde é possivel cadastrar/listar os pontos de coleta em tempo real.
     - Usado um banco de dados SQL através da lib sqlite3.
