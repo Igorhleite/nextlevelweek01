@@ -51,7 +51,7 @@
 - Interfaces mobile (Android/OIS) :
 
 <h1 align="center">
-  <img alt="Login" title="Login" src="https://i.ibb.co/wSPWvTH/2.png" width="500px" />
+  <img alt="Login" title="Login" src="https://i.ibb.co/MkhDtWy/mobile.png" width="600px" />
 </h1>
 
 ## :memo: License
